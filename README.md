@@ -1,8 +1,7 @@
-# responsive-portfolio
+👋 Hi, I’m @Boukli-h
+👀 I’m building a responsive Portfolio website, using HTML, CSS, and some of JS. 
 
- I am building a responsive Portfolio website, using HTML, CSS, and some of JS. 
-
-Website include: 
+🌱 the Website include: 
 
 * A Nav bar
 * A 'Hero' Section
@@ -10,6 +9,17 @@ Website include:
 * Anchor Links
 * Use of media query for responsiveness. 
 
+- 📫 Here is a Link to the website: 
+https://boukli-h.github.io/portfolio/
 
+
+- 💞️ I’m looking to collaborate on:
 Twitter: https://twitter.com/fiamzia
 Instagram: https://www.instagram.com/bouklihcn
+
+
+
+
+
+
+
