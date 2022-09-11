@@ -112,7 +112,9 @@ p {
     justify-content: space-around;
     padding: 80px;
 }
-
+.about{
+    text-indent: 40px;
+}
 .sub-section-alternative {
     display: flex;
     flex-direction: column;
